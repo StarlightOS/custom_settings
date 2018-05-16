@@ -1,0 +1,11 @@
+[Plymouth Theme]
+Name=Ubuntu Text
+Description=Text mode theme based on ubuntu-logo theme
+ModuleName=ubuntu-text
+
+[ubuntu-text]
+title=Starlight
+black=0x19E7FE
+white=0xffffff
+brown=0x3296D9
+blue=0x19E7FE
