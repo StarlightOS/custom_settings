@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Twitter
+Comment=Twitter
+Exec=google-chrome-stable --app=https://www.twitter.com
+Icon=twitter
+Path=
+Terminal=false
+StartupNotify=false
+Categories=Network;Application;

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=100,000 Stars
+Comment=An interactive 3D visualization of the stellar neighborhood, including over 100,000 nearby stars.
+Exec=google-chrome-stable --app=http://stars.chromeexperiments.com/
+Icon=kstars
+Path=
+Terminal=false
+StartupNotify=false
+Categories=Education;Science;

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Gmail
+Comment=Check your email on Gmail
+Exec=google-chrome-stable --app=https://www.gmail.com
+Icon=gmail
+Path=
+Terminal=false
+StartupNotify=false
+Categories=Network;Application;

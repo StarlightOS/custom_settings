@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Whatsapp
+Comment=Whatsapp messenger for web
+Exec=google-chrome-stable --app=https://web.whatsapp.com
+Icon=whatsapp
+Path=
+Terminal=false
+StartupNotify=false
+Categories=Network;Application;
+Name[en_US]=Whatsapp

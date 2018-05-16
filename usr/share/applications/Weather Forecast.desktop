@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Weather Forecast
+Comment=Weather Forecast
+Exec=google-chrome-stable --app=http://forecast.io
+Icon=gnome-weather
+Path=
+Terminal=false
+StartupNotify=false
+Categories=Utility;

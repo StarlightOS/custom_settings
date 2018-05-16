@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Algebra Calculator
+Comment=Solves algebra problems and walks you through them
+Exec=google-chrome-stable --app=http://www.mathpapa.com/algebra-calculator.html
+Icon=kalgebra
+Path=
+Terminal=false
+StartupNotify=false
+Categories=Education;Science;Math;
