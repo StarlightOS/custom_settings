@@ -1,0 +1,9 @@
+NAME="Starlight OS"
+VERSION="1.0 rc1 (Aurora)"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Starlight OS"
+VERSION_ID="1.0rc1"
+HOME_URL="http://www.starlightos.com/"
+SUPPORT_URL="http://help.starlightos.com/"
+BUG_REPORT_URL="http://bugs.starlightos.net/"

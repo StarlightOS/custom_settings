@@ -1,0 +1,11 @@
+NAME="Starlight"
+VERSION="0.9"
+ID=starlight
+ID_LIKE=ubuntu
+PRETTY_NAME="Starlight rc1"
+VERSION_ID="0.9"
+HOME_URL="http://www.starlightos.com/"
+SUPPORT_URL="http://forums.starlightos.com/"
+BUG_REPORT_URL="http://bugs.launchpad.net/starlight-os/"
+VERSION_CODENAME=xenial
+UBUNTU_CODENAME=xenial

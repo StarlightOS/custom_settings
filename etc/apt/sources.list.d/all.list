@@ -1,0 +1,41 @@
+deb http://packages.linuxmint.com/ sylvia main upstream import backport
+
+#graphics
+deb http://ppa.launchpad.net/xorg-edgers/ppa/ubuntu xenial main
+#deb http://ppa.launchpad.net/oibaf/graphics-drivers/ubuntu xenial main
+
+#secondary repositories and themes
+deb http://ppa.launchpad.net/xubuntu-dev/extras/ubuntu xenial main
+deb http://archive.canonical.com/ubuntu xenial partner
+deb http://ppa.launchpad.net/gnome3-team/gnome3-staging/ubuntu xenial main
+deb http://ppa.launchpad.net/noobslab/icons/ubuntu zesty main
+deb http://ppa.launchpad.net/noobslab/icons/ubuntu yakkety main
+deb http://ppa.launchpad.net/noobslab/icons/ubuntu xenial main
+deb http://ppa.launchpad.net/noobslab/icons2/ubuntu zesty main
+deb http://ppa.launchpad.net/noobslab/icons2/ubuntu xenial main
+deb http://ppa.launchpad.net/noobslab/icons2/ubuntu yakkety main
+deb http://ppa.launchpad.net/noobslab/themes/ubuntu xenial main
+deb http://ppa.launchpad.net/noobslab/themes/ubuntu yakkety main
+deb http://ppa.launchpad.net/noobslab/themes/ubuntu zesty main
+deb http://ppa.launchpad.net/nilarimogard/webupd8/ubuntu xenial main
+
+#apps and indicators
+deb http://ppa.launchpad.net/gottcode/gcppa/ubuntu xenial main
+deb http://ppa.launchpad.net/noobslab/apps/ubuntu xenial main
+deb http://ppa.launchpad.net/noobslab/indicators/ubuntu xenial main
+deb http://ppa.launchpad.net/atareao/atareao/ubuntu xenial main
+deb http://ppa.launchpad.net/linrunner/tlp/ubuntu xenial main
+deb http://ppa.launchpad.net/webupd8team/atraci/ubuntu xenial main
+deb http://ppa.launchpad.net/dhor/myway/ubuntu xenial main
+deb http://ppa.launchpad.net/yunnxx/gnome3/ubuntu xenial main
+
+#gaming
+deb http://ppa.launchpad.net/libretro/stable/ubuntu xenial main
+deb http://ppa.launchpad.net/ppsspp/stable/ubuntu xenial main
+deb http://archive.getdeb.net/ubuntu xenial-getdeb apps
+deb http://ppa.launchpad.net/dolphin-emu/ppa/ubuntu xenial main
+deb http://ppa.launchpad.net/minecraft-installer-peeps/minecraft-installer/ubuntu xenial main
+
+#add keys with the command below
+#sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys [key]
+

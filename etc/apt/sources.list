@@ -1,0 +1,8 @@
+#main repositories
+deb http://archive.ubuntu.com/ubuntu xenial main restricted universe multiverse
+deb http://archive.ubuntu.com/ubuntu xenial-updates main restricted universe multiverse
+deb http://archive.ubuntu.com/ubuntu xenial-backports main restricted universe multiverse
+deb http://security.ubuntu.com/ubuntu xenial-security main restricted universe multiverse
+
+#add keys with the command below
+#sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys [key]
