@@ -3,7 +3,7 @@ Version=1.0
 Type=Application
 Name=Timezone Converter
 Comment=Convert between major world cities, countries and timezones in both directions
-Exec=google-chrome-stable --app=http://www.thetimezoneconverter.com/
+Exec=firefox http://www.thetimezoneconverter.com/
 Icon=time
 Path=
 Terminal=false

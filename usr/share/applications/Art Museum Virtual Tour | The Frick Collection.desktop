@@ -3,7 +3,7 @@ Version=1.0
 Type=Application
 Name=Virtual Tour of The Frick Collection
 Comment=Art Museum Virtual Tour | The Frick Collection
-Exec=google-chrome-stable --app=http://www.frick.org/sites/default/files/virtualtour/vt/fullscreenvt.html
+Exec=firefox https://www.frick.org/visit/virtual_tour
 Icon=tuxpaint
 Path=
 Terminal=false

@@ -3,7 +3,7 @@ Version=1.0
 Type=Application
 Name=Experience Curiosity
 Comment=Hop on the Curiosity rover and drive through Mars!
-Exec=google-chrome-stable --app=http://eyes.nasa.gov/curiosity/
+Exec=firefox http://eyes.nasa.gov/curiosity/
 Icon=mate-panel-window-list
 Path=
 Terminal=false

@@ -3,7 +3,7 @@ Version=1.0
 Type=Application
 Name=Virtual Tour of the Smithsonian
 Comment=The Smithsonian Museum of Natural History is dedicated to inspiring curiosity, discovery, and learning about the natural world
-Exec=google-chrome-stable --app=http://www.mnh.si.edu/vtp/1-desktop/
+Exec=firefox http://www.mnh.si.edu/vtp/1-desktop/
 Icon=pstree32
 Path=
 Terminal=false

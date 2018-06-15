@@ -3,7 +3,7 @@ Version=1.0
 Type=Application
 Name=One Million Stars
 Comment=Browse the Universe
-Exec=google-chrome-stable --app=http://osr.org/oms/
+Exec=firefox http://osr.org/oms/
 Icon=kstars
 Path=
 Terminal=false

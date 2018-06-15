@@ -22,6 +22,7 @@
         <value type="int" value="12"/>
         <value type="int" value="14"/>
         <value type="int" value="17"/>
+        <value type="int" value="20"/>
         <value type="int" value="16"/>
         <value type="int" value="15"/>
         <value type="int" value="18"/>
@@ -42,7 +43,7 @@
     </property>
     <property name="plugin-3" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="15218543491.desktop"/>
+        <value type="string" value="15287344731.desktop"/>
       </property>
     </property>
     <property name="plugin-4" type="string" value="launcher">
@@ -111,6 +112,7 @@
     <property name="plugin-16" type="string" value="indicator">
       <property name="known-indicators" type="array">
         <value type="string" value="com.canonical.indicator.sound"/>
+        <value type="string" value="com.canonical.indicator.bluetooth"/>
       </property>
     </property>
     <property name="plugin-17" type="string" value="power-manager-plugin"/>
@@ -132,5 +134,8 @@
       </property>
     </property>
     <property name="plugin-21" type="string" value="showdesktop"/>
+    <property name="plugin-20" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+    </property>
   </property>
 </channel>
